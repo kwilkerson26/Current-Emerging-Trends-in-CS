@@ -1,5 +1,9 @@
 # Current/Emerging Trends in CS
 
+# Briefly explain the work that you did on this project: What code were you given? What code did you create yourself?
+In this project, I was initially given a starter code that provided the game environment, rules and supporting python files. I was responsible for implementing the deep Q-learning algorithm, including the neural network model, training loop, epsilon-greedy action selection, Q-value updates, and parameter tuning. The main objective of the project was to train a pirate NPC to successfully navigate the maze and find the treasure.
+
+# Connect your learning from throughout this course to the larger field of computer science:
 # What do computer scientists do and why does it matter?
 Computer scientists design systems that solve real-world problems and improve everyday life. This work matters because these systems influence decisions in areas such as healthcare, finance and education, where their quality can have a direct impact. A well-designed AI system can improve efficiency and accessibility, while a poorly designed system can cause harm or reinforce existing biases.
 
