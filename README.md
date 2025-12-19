@@ -1,4 +1,4 @@
-# Current-Emerging-Trends-in-CS
+# Current/Emerging Trends in CS
 
 # What do computer scientists do and why does it matter?
 Computer scientists design systems that solve real-world problems and improve everyday life. This work matters because these systems influence decisions in areas such as healthcare, finance and education, where their quality can have a direct impact. A well-designed AI system can improve efficiency and accessibility, while a poorly designed system can cause harm or reinforce existing biases.
